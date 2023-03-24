@@ -16,7 +16,7 @@ options:
       url: https://jcenter.bintray.com/
     - id: "rosjava_mvn_repo"
       type: "default"
-      url: https://github.com/rosjava/rosjava_mvn_repo/raw/master
+      url: https://github.com/Sjoyie/rosjava_mvn_repo/raw/master
   resolverCache: bazel_output_base
   transitivity: runtime_deps
   versionConflictPolicy: highest
